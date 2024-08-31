@@ -1,0 +1,6 @@
+vars,type
+Impago,target
+nDiasMora,num
+IngresoNetoMensualSoles,num
+ValorCredito,num
+NroDeCuotasTotal,num
